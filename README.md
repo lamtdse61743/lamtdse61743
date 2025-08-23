@@ -34,7 +34,7 @@ Over time, I've realized that satisfaction comes from continuous learning, build
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamtdse61743&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamtdse61743&layout=compact&theme=dark&hide_progress=true" alt="Top Languages" />
 </div>
 
 ## 🏆 Featured Projects
