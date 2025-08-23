@@ -19,9 +19,9 @@ Over time, I've realized that satisfaction comes from continuous learning, build
 
 </div>
 
-## 🎯 Currently Working On
+## Currently Working On
 
-🔭 **Fanshawe Consultant Chatbot** - AI-powered web application using vector databases and RAG architecture
+🔭 **EngNova** - AI-powered web application using LLM model to generate IELTS test for users who want to prepare for their exam!
 
 🌱 **Learning**: Advanced Machine Learning techniques, Deep Learning frameworks, and modern web development
 
@@ -58,7 +58,7 @@ Real-time AI surveillance system with object detection capabilities
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lamdinh)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lam-dinh-9104b6306/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lamtdse61743@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lamtdse61743)
 
@@ -75,7 +75,7 @@ Real-time AI surveillance system with object detection capabilities
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=lamtdse61743&color=brightgreen&style=flat-square)
+![Profile Views](https://www.linkedin.com/in/lam-dinh-9104b6306/)
 
 ⭐ **Thanks for visiting my profile!** ⭐
 
