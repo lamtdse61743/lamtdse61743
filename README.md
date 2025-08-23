@@ -32,11 +32,6 @@ Over time, I've realized that satisfaction comes from continuous learning, build
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lamtdse61743&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamtdse61743&layout=compact&theme=dark&hide_progress=true" alt="Top Languages" />
-</div>
-
 ## 🏆 Featured Projects
 
 ### 🤖 [Fanshawe Consultant Chatbot](https://github.com/lamtdse61743/Fanshawe-Consultant-Chatbot)
