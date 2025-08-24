@@ -70,8 +70,6 @@ Real-time AI surveillance system with object detection capabilities
 
 <div align="center">
 
-![Profile Views](https://www.linkedin.com/in/lam-dinh-9104b6306/)
-
 ⭐ **Thanks for visiting my profile!** ⭐
 
 </div>
