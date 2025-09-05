@@ -1,4 +1,4 @@
-# Hi there, I'm Lam Dinh 👋
+# Hi there, I'm Lam 👋
 
 **Full Stack Developer | AI Enthusiast | Machine Learning | Deep Learning | Python | JavaScript | React**
 
